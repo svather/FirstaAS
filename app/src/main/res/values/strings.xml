@@ -3,5 +3,4 @@
 
     <string name="text_to_change">Text will change if you press Button</string>
     <string name="button_change_text">Change Text</string>
-    <string name="theme_switch">Dark Theme</string>
 </resources>
